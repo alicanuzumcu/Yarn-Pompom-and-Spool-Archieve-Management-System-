@@ -51,5 +51,5 @@ Make sure you have the following installed:
 To run the application, execute the following command:
 
 ```bash
-python main.py
+python main1.py
 
