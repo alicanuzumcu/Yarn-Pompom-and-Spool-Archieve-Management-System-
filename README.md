@@ -5,7 +5,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing re
 The system is built using **PyQt5** for the GUI and connects to a SQL database for storing and managing records.
 
 ## Video
-![Pom-Pom Shelf System Demo](20250111-2107-05.9752288.mp4)
+![Pom-Pom Shelf System Demo](image.png)
  
 
 ## Features
