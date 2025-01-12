@@ -3,8 +3,8 @@ import pyodbc
 from datetime import datetime
 
 # Connection settings
-server = 'LAPTOP-ADPAUIQ5\\SQLEXPRESS'  # SQL Server address (localhost or server name)
-database = 'QualityControlDB'  # Database to connect to
+server = ''  # SQL Server address (localhost or server name)
+database = ''  # Database to connect to
 
 # Connection string (using Windows Authentication)
 connection_string = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};Trusted_Connection=yes;'
