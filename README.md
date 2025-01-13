@@ -4,8 +4,8 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing re
 
 The system is built using **PyQt5** for the GUI and connects to a SQL database for storing and managing records.
 
-## Screen View
-![Pom-Pom Shelf System Demo](image.png)
+### Video Demonstration
+Watch the project demonstration on YouTube: [Click here to watch](https://youtu.be/6lHP5wYNVy0)
  
 
 ## Features
@@ -18,7 +18,7 @@ The system is built using **PyQt5** for the GUI and connects to a SQL database f
 
 ## Prerequisites
 
-Make sure you have the following installed:
+Make sure you have created a database on your local and the following installed:
 
 - Python 
 - PyQt5
@@ -29,7 +29,7 @@ Make sure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/pom-pom-shelf-system.git
+    git clone https://github.com/alicanuzumcu/Yarn-Pompom-and-Bobbin-Archive-Management-System-
     cd pom-pom-shelf-system
     ```
 
